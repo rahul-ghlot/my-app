@@ -2,7 +2,7 @@ package com.mycompany.app;
 
 /**
  * Hello world!
- *
+ * author
  */
 public class App 
 {
